@@ -7,6 +7,6 @@ I chose this song because it is humorous and fun, and I hope to maintain this st
 My way of expressing this song is through an array of circles that are launched in random directions, along with a heart shape that keeps bouncing. The size of the launched circles depends on the value of the music, and the heart shape will also bounce according to this value. In addition, I added an angular velocity to the launched circles, so they will continuously rotate around the center of the screen, reflecting the passion and joy of the song. Meanwhile, users can pause or end the song using the buttons. They can also adjust the color of the new circles using the slider bar. If they want, they can create a rainbow-like color effect by continuously moving the slider bar.
 
 
-![image description](.sketchB.jpg)
+![image description](./sketchB.jpg)
 
 
